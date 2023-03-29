@@ -1,6 +1,7 @@
 # remove_background
 
-Educational project
+*Educational project*
+
 
 **Script for Rembg**
 
