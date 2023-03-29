@@ -1,9 +1,7 @@
 # remove_background
 
-*Educational project*
+*Educational project*: **Script for Rembg**
 
-
-**Script for Rembg**
 
 Rembg is a tool to remove images background. 
 
